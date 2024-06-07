@@ -11,6 +11,9 @@ Some fairly unassuming articles mostly centered around math, computational finan
 #### cs 
 * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 
+#### ml
+* [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
 #### quant fin. 
 * [Elements of Statistical Learning. 8/10](https://blog.headlandstech.com/2022/02/)
 
