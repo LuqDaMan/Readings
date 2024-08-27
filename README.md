@@ -12,7 +12,7 @@ Some fairly unassuming articles mostly centered around math, computational finan
 #### cs 
 * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 
-#### data-science/ml
+#### ml
 * [FAQ: How Do I interpret Odds Ratios in Logistic Regression](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
 * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
