@@ -7,6 +7,7 @@ Some fairly unassuming articles mostly centered around math, computational finan
 
 #### statistics
 * [My Journey from Frequentist to Bayesian Statistics](https://www.fharrell.com/post/journey/)
+* [Causal Inference in Data Science](https://www.yuan-meng.com/posts/causality/?utm_source=substack&utm_medium=email)
 
 #### cs 
 * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
@@ -14,7 +15,6 @@ Some fairly unassuming articles mostly centered around math, computational finan
 #### data-science/ml
 * [FAQ: How Do I interpret Odds Ratios in Logistic Regression](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
 * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
-* [Causal Inference in Data Science](https://www.yuan-meng.com/posts/causality/?utm_source=substack&utm_medium=email)
 
 #### quant fin. 
 * [Elements of Statistical Learning. 8/10](https://blog.headlandstech.com/2022/02/)
