@@ -17,5 +17,6 @@ Some fairly unassuming articles mostly centered around math, computational finan
 
 #### quant fin. 
 * [Elements of Statistical Learning. 8/10](https://blog.headlandstech.com/2022/02/)
+* [The Man AHL Academic Advisory Board met to discuss skewness.](https://www.man.com/maninstitute/skewness)
 
 
